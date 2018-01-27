@@ -12,5 +12,5 @@ function ninjaBabySelector(){
 }
 
 function divSelector(){
-  
+  return document.querySelectorAll('div.pics');
 }
